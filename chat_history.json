@@ -1,0 +1,38 @@
+[
+  {
+    "role": "user",
+    "text": "Hi"
+  },
+  {
+    "role": "assistant",
+    "text": "Hello! How can I assist you today?"
+  },
+  {
+    "role": "user",
+    "text": "Show all Ports"
+  },
+  {
+    "role": "assistant",
+    "text": "Returned 20 records."
+  },
+  {
+    "role": "user",
+    "text": "I need to create a Port"
+  },
+  {
+    "role": "assistant",
+    "text": "\ud83d\udcdd Opening create form for DSpeedy__Port__c."
+  },
+  {
+    "role": "user",
+    "text": "Update the Above Created Record"
+  },
+  {
+    "role": "assistant",
+    "text": "\u26a0\ufe0f No Record records found matching 'Above Created Record'."
+  },
+  {
+    "role": "assistant",
+    "text": "\u270f\ufe0f Opening update form for Record."
+  }
+]
